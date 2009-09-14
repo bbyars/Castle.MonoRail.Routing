@@ -1,0 +1,100 @@
+<Configuration>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Web.config-example" caret="1077" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:AssetHelper.cs" caret="4245" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:ResourceHelper.cs" caret="419" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteException.cs" caret="345" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlBuilder.cs" caret="385" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:AssetHelperTest.cs" caret="3578" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:QueryStringConstraintIncomingTest.cs" caret="242" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RouteCollectionExtensionsTest.cs" caret="7988" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RoutingBasedUrlTokenizerTest.cs" caret="139" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:TestFactory.cs" caret="432" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:QueryStringConstraintOutgoingTest.cs" caret="1933" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Hash.cs" caret="2109" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:QueryStringConstraint.cs" caret="1567" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteCollectionExtensions.cs" caret="3078" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:ResourceHelperTest.cs" caret="1010" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlTokenizer.cs" caret="2585" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RoutingBasedUrlBuilderTest.cs" caret="2804" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:MonorailRouteHandler.cs" caret="570" fromTop="16" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:HashTest.cs" caret="211" fromTop="8" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:DictionaryExtensions.cs" caret="223" fromTop="8" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:DictionaryExtensionsTest.cs" caret="506" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:ResourceHelper.cs" caret="419" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteCollectionExtensions.cs" caret="0" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteException.cs" caret="0" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteException.cs" caret="258" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlBuilder.cs" caret="0" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlBuilder.cs" caret="385" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlTokenizer.cs" caret="0" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlTokenizer.cs" caret="558" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:AssetHelperTest.cs" caret="3578" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:QueryStringConstraintIncomingTest.cs" caret="242" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:QueryStringConstraintOutgoingTest.cs" caret="124" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:ResourceHelperTest.cs" caret="353" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RouteCollectionExtensionsTest.cs" caret="7988" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RoutingBasedUrlBuilderTest.cs" caret="119" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RoutingBasedUrlTokenizerTest.cs" caret="139" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:QueryStringConstraintOutgoingTest.cs" caret="1920" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Hash.cs" caret="2111" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:MonorailRouteHandler.cs" caret="210" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Hash.cs" caret="213" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Hash.cs" caret="1759" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteCollectionExtensions.cs" caret="2170" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteCollectionExtensions.cs" caret="2700" fromTop="5" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteCollectionExtensions.cs" caret="3078" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:ResourceHelperTest.cs" caret="1010" fromTop="5" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:HashTest.cs" caret="220" fromTop="8" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:DictionaryExtensions.cs" caret="224" fromTop="8" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:DictionaryExtensionsTest.cs" caret="94" fromTop="4" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:DictionaryExtensionsTest.cs" caret="689" fromTop="22" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:DictionaryExtensionsTest.cs" caret="868" fromTop="27" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:DictionaryExtensionsTest.cs" caret="864" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="UseSolutionBuilder">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="test" priority="1" />
+      <Item value="ase" priority="1" />
+      <Item value="new" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="static" priority="1" />
+      <Item value="string" priority="1" />
+      <Item value="this" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="SetUpFixtureAttribute" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="void" priority="5" />
+      <Item value="interface" priority="0" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="object" priority="1" />
+      <Item value="visitor" priority="0" />
+      <Item value="obj" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MonoRail.Routing.Test.IVisitor">
+      <Item value="Visit" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+</Configuration>

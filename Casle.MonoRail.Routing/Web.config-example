@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<configuration>
+	<configSections>
+		<section name="monorail" type="Castle.MonoRail.Framework.Configuration.MonoRailSectionHandler, Castle.MonoRail.Framework "/>
+	</configSections>
+
+	<system.web>
+		<httpHandlers>
+			<remove verb="*" path="*.asmx"/>
+			<remove verb="*" path="*.vm"/>
+      <add verb="GET" path="*.aspx" type="System.Web.UI.PageHandlerFactory"/>
+      <add verb="GET" path="*.css" type="System.Web.StaticFileHandler" />
+			<add verb="GET" path="*.js" type="System.Web.StaticFileHandler" />
+			<add verb="GET" path="*.jpg" type="System.Web.StaticFileHandler" />
+			<add verb="GET" path="*.gif" type="System.Web.StaticFileHandler" />
+			<add verb="GET" path="*.png" type="System.Web.StaticFileHandler" />
+			<add verb="*" path="*" type="Castle.MonoRail.Framework.MonoRailHttpHandlerFactory, Castle.MonoRail.Framework" />
+		</httpHandlers>
+		<httpModules>
+			<add name="monorail" type="Castle.MonoRail.Framework.EngineContextModule, Castle.MonoRail.Framework" />
+			<add name="urlRouting" type="System.Web.Routing.UrlRoutingModule, System.Web.Routing, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"/>
+		</httpModules>
+	</system.web>
+	
+	<monorail>
+		<services>
+			<service id="UrlTokenizer"
+				type="Castle.MonoRail.Routing.RoutingBasedUrlTokenizer, Castle.MonoRail.Routing" />
+			<service id="UrlBuilder"
+				type="Castle.MonoRail.Routing.RoutingBasedUrlBuilder, Castle.MonoRail.Routing" />
+		</services>
+	</monorail>
+</configuration>

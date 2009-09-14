@@ -1,0 +1,96 @@
+<stylecopresultscache>
+  <version>10</version>
+  <project key="51537523">
+    <configuration>TRACE</configuration>
+  </project>
+  <sourcecode name="AssetHelperTest.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:31:17</timestamp>
+    <milliseconds>217</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="HashTest.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:23:35</timestamp>
+    <milliseconds>639</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:16:14</timestamp>
+    <milliseconds>404</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="QueryStringConstraintIncomingTest.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:31:17</timestamp>
+    <milliseconds>404</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="QueryStringConstraintOutgoingTest.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:32:15</timestamp>
+    <milliseconds>498</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ResourceHelperTest.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:38:36</timestamp>
+    <milliseconds>823</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RouteCollectionExtensionsTest.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:31:17</timestamp>
+    <milliseconds>311</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RoutingBasedUrlBuilderTest.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:31:17</timestamp>
+    <milliseconds>279</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RoutingBasedUrlTokenizerTest.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:31:17</timestamp>
+    <milliseconds>76</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TestFactory.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:27:25</timestamp>
+    <milliseconds>404</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

@@ -1,0 +1,77 @@
+<Configuration>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Web.config-example" caret="1077" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:AssetHelper.cs" caret="4245" scrollPosition="0|108" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:ResourceHelper.cs" caret="419" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteException.cs" caret="345" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlBuilder.cs" caret="385" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:AssetHelperTest.cs" caret="3578" scrollPosition="0|84" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:HashTest.cs" caret="211" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:QueryStringConstraintIncomingTest.cs" caret="242" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RouteCollectionExtensionsTest.cs" caret="7988" scrollPosition="0|195" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RoutingBasedUrlTokenizerTest.cs" caret="139" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:TestFactory.cs" caret="432" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:QueryStringConstraintOutgoingTest.cs" caret="1933" scrollPosition="0|39" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Hash.cs" caret="2109" scrollPosition="0|48" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:QueryStringConstraint.cs" caret="1567" scrollPosition="0|28" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteCollectionExtensions.cs" caret="3078" scrollPosition="0|70" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:ResourceHelperTest.cs" caret="1010" scrollPosition="0|24" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlTokenizer.cs" caret="2585" scrollPosition="0|57" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RoutingBasedUrlBuilderTest.cs" caret="2804" scrollPosition="0|51" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:MonorailRouteHandler.cs" caret="313" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:ResourceHelperTest.cs" caret="127" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RouteCollectionExtensionsTest.cs" caret="217" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:TestFactory.cs" caret="149" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Web.config-example" caret="466" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:AssetHelper.cs" caret="4245" scrollPosition="0|108" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:ResourceHelper.cs" caret="0" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:ResourceHelper.cs" caret="419" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteCollectionExtensions.cs" caret="0" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteException.cs" caret="0" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteException.cs" caret="258" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlBuilder.cs" caret="0" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlBuilder.cs" caret="385" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlTokenizer.cs" caret="0" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RoutingBasedUrlTokenizer.cs" caret="558" scrollPosition="0|2" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:AssetHelperTest.cs" caret="3578" scrollPosition="0|84" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:QueryStringConstraintIncomingTest.cs" caret="242" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:QueryStringConstraintOutgoingTest.cs" caret="124" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:ResourceHelperTest.cs" caret="353" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RouteCollectionExtensionsTest.cs" caret="7988" scrollPosition="0|195" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RoutingBasedUrlBuilderTest.cs" caret="119" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:RoutingBasedUrlTokenizerTest.cs" caret="139" scrollPosition="0|0" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:QueryStringConstraintOutgoingTest.cs" caret="1920" scrollPosition="0|39" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Hash.cs" caret="2111" scrollPosition="0|48" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:MonorailRouteHandler.cs" caret="210" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Hash.cs" caret="213" scrollPosition="0|0" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:Hash.cs" caret="1759" scrollPosition="0|41" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteCollectionExtensions.cs" caret="2170" scrollPosition="0|48" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteCollectionExtensions.cs" caret="2700" scrollPosition="0|70" />
+      <File id="BDD6E767-D36B-4126-8CFF-DBCA8837898A/f:RouteCollectionExtensions.cs" caret="3078" scrollPosition="0|70" />
+      <File id="9D6A4D91-E004-4F41-BB61-05B436B60DE0/f:ResourceHelperTest.cs" caret="1010" scrollPosition="0|24" />
+    </RecentEdits>
+  </RecentFiles>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="UseSolutionBuilder">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager />
+</Configuration>

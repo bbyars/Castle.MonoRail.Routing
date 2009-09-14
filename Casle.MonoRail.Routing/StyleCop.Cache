@@ -1,0 +1,96 @@
+<stylecopresultscache>
+  <version>10</version>
+  <project key="2082658653">
+    <configuration>TRACE</configuration>
+  </project>
+  <sourcecode name="AssetHelper.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:29:38</timestamp>
+    <milliseconds>857</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Hash.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:36:38</timestamp>
+    <milliseconds>136</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MonorailRouteHandler.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:36:38</timestamp>
+    <milliseconds>120</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>12/26/2008 23:49:23</timestamp>
+    <milliseconds>403</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="QueryStringConstraint.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:23:36</timestamp>
+    <milliseconds>123</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ResourceHelper.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:29:38</timestamp>
+    <milliseconds>779</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RouteCollectionExtensions.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:37:15</timestamp>
+    <milliseconds>964</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RouteException.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:30:35</timestamp>
+    <milliseconds>920</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RoutingBasedUrlBuilder.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:30:35</timestamp>
+    <milliseconds>795</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="RoutingBasedUrlTokenizer.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/07/2009 21:39:25</timestamp>
+      <milliseconds>667</milliseconds>
+    </settings>
+    <timestamp>06/07/2009 21:30:35</timestamp>
+    <milliseconds>670</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>
