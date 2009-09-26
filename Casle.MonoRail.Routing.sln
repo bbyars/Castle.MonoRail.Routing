@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.MonoRail.Routing", "Casle.MonoRail.Routing\Castle.MonoRail.Routing.csproj", "{BDD6E767-D36B-4126-8CFF-DBCA8837898A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.MonoRail.Routing", "Castle.MonoRail.Routing\Castle.MonoRail.Routing.csproj", "{BDD6E767-D36B-4126-8CFF-DBCA8837898A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.MonoRail.Routing.Test", "Castle.MonoRail.Routing.Test\Castle.MonoRail.Routing.Test.csproj", "{9D6A4D91-E004-4F41-BB61-05B436B60DE0}"
 EndProject
