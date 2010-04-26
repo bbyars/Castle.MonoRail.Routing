@@ -1,0 +1,33 @@
+1. What is Castle.MonoRail.Routing
+
+Castle.Monorail.Routing was developed to provide a better routing system to Castle.MonoRail.
+The System.Web.Routing namespace is integrated into MonoRail, with some extension methods
+to provide nice resourceful URLs.
+
+2. Example
+
+// In Global.asax.cs
+var routes = new RouteCollection();
+routes.MapResource("patients");
+routes.MapResources("labs", "patients/{mrn}");
+
+The code above maps the standard RESTful routes for the following resources.
+* A list of patients (/patients)
+* A patient (/patients/123)
+* A patient edit form (/patients/123/edit)
+* A patients creation form (/patients/123/new)
+
+HTTP verbs are leveraged to map those resources to the following actions
+on the PatientsController:
+* Index (GET /patients)
+* Create (POST /patients)
+* Show (GET /patients/123)
+* Update (PUT /patients/123, or POST /patients/123?method=put)
+* Destroy (DELETE /patients/123, or POST /patients/123?method=delete)
+* Edit (GET /patients/123/edit)
+* New (GET /patients/123/new)
+
+For nested resources (for example, labs which are tied to a patient), set
+the resourcePrefix to the parent resource(s).  For example, a resourcePrefix
+of "patients/{mrn}" and a resourceName of "labs" will create the following
+URL for a list of labs: /patients/123/labs (with the mrn parameter set to 123)

@@ -5,6 +5,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.MonoRail.Routing", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.MonoRail.Routing.Test", "Castle.MonoRail.Routing.Test\Castle.MonoRail.Routing.Test.csproj", "{9D6A4D91-E004-4F41-BB61-05B436B60DE0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8211A8F4-F96F-4DAC-BA00-A93FF583D448}"
+	ProjectSection(SolutionItems) = preProject
+		CONTRIBUTORS = CONTRIBUTORS
+		LICENSE = LICENSE
+		README = README
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

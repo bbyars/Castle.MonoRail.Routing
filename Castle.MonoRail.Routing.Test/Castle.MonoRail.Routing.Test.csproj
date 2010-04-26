@@ -75,7 +75,7 @@
     <Compile Include="TestFactory.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Casle.MonoRail.Routing\Castle.MonoRail.Routing.csproj">
+    <ProjectReference Include="..\Castle.MonoRail.Routing\Castle.MonoRail.Routing.csproj">
       <Project>{BDD6E767-D36B-4126-8CFF-DBCA8837898A}</Project>
       <Name>Castle.MonoRail.Routing</Name>
     </ProjectReference>
